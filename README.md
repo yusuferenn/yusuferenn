@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yusuf Eren
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gilfwells 
 ==================================================================================================================================
 
 Junior Developer
@@ -7,7 +7,7 @@ Junior Developer
 I am 19 years old and I have been interested in computers since childhood. With this enthusiasm, I started learning software at the age of 16. I am constantly improving myself and learning new things.
 
 * 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [yusuferenozcan@gmail.com](mailto:yusuferenozcan@gmail.com)
+* ✉️  You can contact me at [gilfwells@gmail.com](mailto:gilfwells@gmail.com)
 * 🧠  I'm learning JavaScript
 
 ### Skills
